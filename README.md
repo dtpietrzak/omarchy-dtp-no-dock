@@ -6,9 +6,11 @@ Super+Space opens the Omarchy menu. Super+Alt+Space opens apps. When the list la
 
 ## Install
 
-`omarchy-dtp-install` runs this after `omarchy-dtp-app-list`. From a checkout:
+`omarchy-dtp-install` runs this after `omarchy-dtp-app-list`. From GitHub:
 
 ```bash
+git clone https://github.com/dtpietrzak/omarchy-dtp-no-dock.git
+cd omarchy-dtp-no-dock
 ./install.sh
 ```
 
