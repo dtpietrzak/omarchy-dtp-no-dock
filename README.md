@@ -2,6 +2,8 @@
 
 Turns the Omarchy dock off. Super+Space and Super+Alt+Space are how you reach the system and your apps.
 
+![A floating workspace with no dock along the screen edge](screenshots/no-dock.png)
+
 Super+Space opens the Omarchy menu. Super+Alt+Space opens apps. When the list launcher is enabled, that key opens it. Otherwise it opens the menu's Apps list.
 
 ## Install
